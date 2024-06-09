@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MS24Qrc2GTDcN4ZpQgH0F6Cq+waWCxppQHj4+I2Wsi2WJkBPasEq0VmDbPf4NQTbmP7XOoiQyFZ2oa6F4GsYCw==",
+  "dgSpecHash": "Cy9HRfbUX7+2uAgkGT6K2KbR17e1yK+z1/r5ERWDk1daOdqtregac6dKVcJhQV5/zI4jEzxlgWrkR5kEPjns1g==",
   "success": true,
-  "projectFilePath": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
+  "projectFilePath": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\konod\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\konod\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\konod\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\konod\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
