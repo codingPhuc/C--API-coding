@@ -3,84 +3,104 @@
   "WorkspaceRootPath": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\nzwalksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\nzwalksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\repository\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repository\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\migrations\\20240603002605_name of migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\migrations\\20240603002605_name of migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\repository\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repository\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\repository\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repository\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\nzwalksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\nzwalksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\repository\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repository\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\nzwalksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\nzwalksapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\20240609064424_Seeding data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NZWalksAPI\\Migrations\\20240609064424_Seeding data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\migrations\\nzwalkdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\migrations\\nzwalkdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\nzwalksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\nzwalksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|d:\\3 hk2\\phone application development\\net mual\\nzwalks\\c# api coding\\nzwalksapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CC80E9-C8CD-41F8-9469-D5DF6B0A8B1C}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,89 +110,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegionController.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\RegionController.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionController.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\RegionController.cs",
-              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionController.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAcwJEAAAA+AAAA",
+              "DocumentIndex": 0,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Repository\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repository\\IWalkRepository.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Repository\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repository\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:12:20.817Z",
+              "WhenOpened": "2024-06-09T07:24:28.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Program.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Program.cs",
-              "RelativeToolTip": "NZWalksAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:49:26.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "NZWalksAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:12:21.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NZWalksAPI",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.csproj",
-              "RelativeDocumentMoniker": "NZWalksAPI\\NZWalksAPI.csproj",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.csproj",
-              "RelativeToolTip": "NZWalksAPI\\NZWalksAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T02:44:42.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Mappings\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Mappings\\AutoMapperProfile.cs",
               "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Mappings\\AutoMapperProfile.cs",
               "RelativeToolTip": "NZWalksAPI\\Mappings\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T02:46:13.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateRegionRequestDTo.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
-              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "WalkController.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\WalkController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\WalkController.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\WalkController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\WalkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:34:33.783Z",
+              "WhenOpened": "2024-06-09T06:52:52.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "AddWalkRequestDto.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:19:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AddRegionRequestDto.cs",
               "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\AddRegionRequestDto.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\AddRegionRequestDto.cs",
@@ -185,7 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "20240603002605_Name of Migration.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\20240603002605_Name of Migration.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\20240603002605_Name of Migration.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\20240603002605_Name of Migration.cs",
+              "RelativeToolTip": "NZWalksAPI\\Migrations\\20240603002605_Name of Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:21:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RegionDTO.cs",
               "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\RegionDTO.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\RegionDTO.cs",
@@ -194,6 +201,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T02:34:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Repository\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repository\\SQLRegionRepository.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Repository\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repository\\SQLRegionRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAewB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:13:31.127Z",
               "EditorCaption": ""
             },
             {
@@ -212,45 +232,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\appsettings.Development.json",
-              "RelativeToolTip": "NZWalksAPI\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T02:49:30.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\WeatherForecast.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "NZWalksAPI\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "NZWalkDbContext.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "RelativeToolTip": "NZWalksAPI\\Data\\NZWalkDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:49:27.137Z",
+              "WhenOpened": "2024-06-08T13:11:26.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "NZWalksAPI.http",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.http",
-              "RelativeDocumentMoniker": "NZWalksAPI\\NZWalksAPI.http",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.http",
-              "RelativeToolTip": "NZWalksAPI\\NZWalksAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-09T02:49:25.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\appsettings.json",
               "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.json",
@@ -263,20 +257,157 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Difficulty.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\Domain\\Difficulty.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Difficulty.cs",
-              "RelativeToolTip": "NZWalksAPI\\Models\\Domain\\Difficulty.cs",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\appsettings.Development.json",
+              "RelativeToolTip": "NZWalksAPI\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T02:49:30.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\Domain\\Walk.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\Domain\\Walk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:34:42.397Z",
+              "WhenOpened": "2024-06-09T02:34:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NZWalksAPI.http",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.http",
+              "RelativeDocumentMoniker": "NZWalksAPI\\NZWalksAPI.http",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.http",
+              "RelativeToolTip": "NZWalksAPI\\NZWalksAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-09T02:49:25.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Program.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Program.cs",
+              "RelativeToolTip": "NZWalksAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:49:26.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "NZWalksAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:49:27.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240609064424_Seeding data.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\20240609064424_Seeding data.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\20240609064424_Seeding data.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\20240609064424_Seeding data.cs",
+              "RelativeToolTip": "NZWalksAPI\\Migrations\\20240609064424_Seeding data.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:44:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:34:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NZWalksAPI.csproj",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.csproj",
+              "RelativeDocumentMoniker": "NZWalksAPI\\NZWalksAPI.csproj",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\NZWalksAPI.csproj",
+              "RelativeToolTip": "NZWalksAPI\\NZWalksAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T02:44:42.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NZWalkDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:11:33.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:12:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionController.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwJEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:12:20.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateRegionRequestDTo.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\UpdateRegionRequestDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:34:33.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Region.cs",
               "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Models\\Domain\\Region.cs",
@@ -284,25 +415,11 @@
               "RelativeToolTip": "NZWalksAPI\\Models\\Domain\\Region.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:34:37.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T02:34:37.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\Domain\\Walk.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "NZWalksAPI\\Models\\Domain\\Walk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T02:34:36.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\StudentController.cs",
@@ -310,47 +427,7 @@
               "RelativeToolTip": "NZWalksAPI\\Controllers\\StudentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:12:19.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SQLRegionRepository.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Repository\\SQLRegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Repository\\SQLRegionRepository.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Repository\\SQLRegionRepository.cs",
-              "RelativeToolTip": "NZWalksAPI\\Repository\\SQLRegionRepository.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAewB4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:13:31.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "NZWalkDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
-              "RelativeToolTip": "NZWalksAPI\\Migrations\\NZWalkDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:11:33.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "NZWalkDbContext.cs",
-              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Data\\NZWalkDbContext.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalkDbContext.cs",
-              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\NZWalks\\C# API coding\\NZWalksAPI\\Data\\NZWalkDbContext.cs",
-              "RelativeToolTip": "NZWalksAPI\\Data\\NZWalkDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:11:26.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T13:12:19.829Z"
             }
           ]
         }

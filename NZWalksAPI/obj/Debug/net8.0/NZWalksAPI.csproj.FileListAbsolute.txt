@@ -272,3 +272,4 @@ D:\3 hk2\Phone application development\NET MUAL\NZWalks\C# API coding\NZWalksAPI
 D:\3 hk2\Phone application development\NET MUAL\NZWalks\C# API coding\NZWalksAPI\obj\Debug\net8.0\NZWalksAPI.csproj.Up2Date
 D:\3 hk2\Phone application development\NET MUAL\NZWalks\C# API coding\NZWalksAPI\obj\Debug\net8.0\NZWalksAPI.genruntimeconfig.cache
 D:\3 hk2\Phone application development\NET MUAL\NZWalks\C# API coding\NZWalksAPI\obj\Debug\net8.0\ref\NZWalksAPI.dll
+D:\3 hk2\Phone application development\NET MUAL\NZWalks\C# API coding\NZWalksAPI\bin\Debug\net8.0\AutoMapper.dll
