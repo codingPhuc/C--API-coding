@@ -16,9 +16,9 @@ namespace NZWalksAPI.Controllers
     {
         private readonly NZWalkDbContext dbContext;
         private readonly IRegionRepository regionRepository;
-        private readonly Mapper mapper; 
+        private readonly IMapper mapper; 
 
-        public RegionController(NZWalkDbContext dbContext , IRegionRepository regionRepository, Mapper  mapper)
+        public RegionController(NZWalkDbContext dbContext , IRegionRepository regionRepository, IMapper mapper)
         {
             this.dbContext = dbContext;
             this.regionRepository = regionRepository;
@@ -30,24 +30,18 @@ namespace NZWalksAPI.Controllers
 
             var regionDomain = await regionRepository.GetAllAsync();
 
-            //var regionsDTO = new List<RegionDTO>();
-
-            //foreach (var region in regionDomain)
-            //{
-
-            //    regionsDTO.Add(new RegionDTO()
-            //    {
-            //        Id = region.Id,
-            //        Name = region.Name,
-            //        Code = region.Code,
-            //        RegionImageUrl = region.RegionImageUrl,
-
-
-            //    }
-            //    );
-            //}
          
+
+            // Check if regionDomain is null or empty
+            if (regionDomain == null || !regionDomain.Any())
+            {
+                throw new Exception("RegionDomain is null or empty");
+            }
+
+            // Map regionDomain to RegionDTO and return
             return Ok(mapper.Map<List<RegionDTO>>(regionDomain));
+    
+
         }
         [HttpGet]
         [Route("{id:Guid}")]
